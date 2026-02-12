@@ -1,0 +1,12 @@
+[
+  {
+    "hari": "Senin",
+    "waktu": "08:00 - 09:30",
+    "mapel": "Matematika"
+  },
+  {
+    "hari": "Senin",
+    "waktu": "09:30 - 11:00",
+    "mapel": "Bahasa Indonesia"
+  }
+]
